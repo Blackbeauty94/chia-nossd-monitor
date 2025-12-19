@@ -13,9 +13,3 @@ Optional:
 
 ---
 
-## 🔧 Setup
-
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/NoSsd_Monitor.git
-cd NoSsd_Monitor
